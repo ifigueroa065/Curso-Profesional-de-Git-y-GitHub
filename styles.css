@@ -3,8 +3,8 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    margin: 0;
-    padding: 0;
+    margin: 20;
+    padding-top: 100px;
 }
 #cabecera{
     background: #33A;
@@ -18,7 +18,7 @@ body{
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 1.2em;
     
 }
 
@@ -33,5 +33,5 @@ body{
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 26px;
 }
