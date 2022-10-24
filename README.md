@@ -1,4 +1,4 @@
-# Curso-Profesional-de-Git-y-GitHub
+# Curso Profesional de Git y GitHub
 
 ## En este curso aprendí
 * Todos los comandos de Git
