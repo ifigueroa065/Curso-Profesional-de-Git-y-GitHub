@@ -1,1 +1,3 @@
-*.webp
+
+# si quiero evitar subir binarios o algun archivo
+#*.webp
