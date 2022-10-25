@@ -1,6 +1,6 @@
-# Curso Profesional de Git y GitHub
+# Curso Profesional de Git y GitHub :alien:
 
-## En este curso aprendí
+## En este curso aprendí  :rocket:
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
