@@ -1,10 +1,9 @@
 # Curso Profesional de Git y GitHub :alien:
 
-## En este curso aprendí  :rocket:
-* Todos los comandos de Git
-* El flujo de trabajo en Github
-* El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
+## Objetivos  :rocket:
+* Aprender todos los comandos de Git
+* Entender el flujo de trabajo en Github
+* Realizar una buena práctica
 
 
 ## Editor de md
